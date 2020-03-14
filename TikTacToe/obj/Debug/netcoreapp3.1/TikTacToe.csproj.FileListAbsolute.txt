@@ -1,0 +1,11 @@
+C:\Users\Pari\source\repos\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.csprojAssemblyReference.cache
+C:\Users\Pari\source\repos\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.AssemblyInfoInputs.cache
+C:\Users\Pari\source\repos\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.AssemblyInfo.cs
+C:\Users\Pari\source\repos\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.exe
+C:\Users\Pari\source\repos\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.deps.json
+C:\Users\Pari\source\repos\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.runtimeconfig.json
+C:\Users\Pari\source\repos\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.runtimeconfig.dev.json
+C:\Users\Pari\source\repos\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.dll
+C:\Users\Pari\source\repos\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.pdb
+C:\Users\Pari\source\repos\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.dll
+C:\Users\Pari\source\repos\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.pdb
